@@ -54,7 +54,7 @@ Tags: Components of GIS
 
 #### Sources of Data Inputs for GIS
 
-![GIS Data Inputs](GISimages/RS-Process.png)
+![GIS Data Inputs](GISimages/DataInputs.png)
 
 Tags: Different Sources of Data Input for GIS
 
