@@ -1,4 +1,4 @@
-# REMOTE SENSING AND GIS
+# REMOTE SENSING
 
 ## DEFINITION
 
@@ -580,3 +580,7 @@ Sample area known as training areas. Statistics are calculated for training site
 ![REMOTE SENSING APPLICATIONS](/Images/Applications.png)
 
 ---
+
+## [REMOTE SENSING](/RS.md)
+
+## [GIS](/GIS.md)
