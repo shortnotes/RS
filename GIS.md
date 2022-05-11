@@ -289,4 +289,4 @@ The main abutment is at the Vijay Chowk. The piers are on either side of the Vij
 
 ## [GIS](/GIS.md)
 
-&copy ![Swapnil Saste](theswapnil.me)
+&copy; [Swapnil Saste](https://theswapnilsaste.github.io)
