@@ -584,3 +584,5 @@ Sample area known as training areas. Statistics are calculated for training site
 ## [REMOTE SENSING](/RS.md)
 
 ## [GIS](/GIS.md)
+
+&copy ![Swapnil Saste](theswapnil.me)
