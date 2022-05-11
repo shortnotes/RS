@@ -585,4 +585,4 @@ Sample area known as training areas. Statistics are calculated for training site
 
 ## [GIS](/GIS.md)
 
-&copy; [Swapnil Saste](theswapnil.me)
+&copy; [Swapnil Saste](https://theswapnil.me)
